@@ -34,10 +34,13 @@ Como o Maky Brito, que orientou como usar html, css e JavaScript para criação 
 ![App Screenshot](https://i.postimg.cc/cL7W3YFh/Ecoleta-Home.jpg)
 
 **Criação sem marcação**
+
 ![App Screenshot](https://i.postimg.cc/FsWWBK7v/ecoletea-sem-outline.jpg)
 
 **Criação com marcação**
+
 ![App Screenshot](https://i.postimg.cc/YjK1JJK1/ecoleta-com-outline.jpg)
 
 **Tela de Resultado**
+
 ![App Screenshot](https://i.postimg.cc/5tXkWQX1/ecoleta-search.jpg)
